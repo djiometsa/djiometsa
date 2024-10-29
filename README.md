@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @djiometsa
+- 👋 Hi, I’m @djiometsa-git
 - 👀 I’m interested in Software programming and software testing
 - 🌱 I’m currently learning python, qml, ISTQB
 - 💞️ I’m looking to collaborate on Software programming Appps using Python and QML
